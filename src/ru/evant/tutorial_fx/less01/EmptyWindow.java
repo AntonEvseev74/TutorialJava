@@ -21,5 +21,8 @@ public class EmptyWindow extends Application {
     // Запуск приложения
     public static void main(String[] args){
         launch(args);
+        while (true){
+            break;
+        }
     }
 }
