@@ -1,7 +1,5 @@
 package ru.evant.tutorial_swing.window06_radiobuttons;
 
-import ru.evant.tutorial_swing.window01_empty.Window;
-
 import javax.swing.*;
 
 public class RadioButtons extends JFrame {

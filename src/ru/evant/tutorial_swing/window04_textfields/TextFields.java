@@ -1,7 +1,5 @@
 package ru.evant.tutorial_swing.window04_textfields;
 
-import ru.evant.tutorial_swing.window01_empty.Window;
-
 import javax.swing.*;
 
 public class TextFields extends JFrame {

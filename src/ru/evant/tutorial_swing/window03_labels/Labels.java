@@ -1,7 +1,5 @@
 package ru.evant.tutorial_swing.window03_labels;
 
-import ru.evant.tutorial_swing.window01_empty.Window;
-
 import javax.swing.*;
 
 public class Labels extends JFrame {
