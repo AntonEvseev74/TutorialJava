@@ -15,7 +15,7 @@ public class TextFields extends JFrame {
 
 
     public TextFields() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. TextFields.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

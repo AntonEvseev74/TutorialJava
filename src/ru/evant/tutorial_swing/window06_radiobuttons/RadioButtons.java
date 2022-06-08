@@ -14,7 +14,7 @@ public class RadioButtons extends JFrame {
 
 
     public RadioButtons() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. RadioButtons.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

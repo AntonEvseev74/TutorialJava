@@ -12,7 +12,7 @@ public class Actions extends JFrame implements ActionListener {
     JTextArea txtArea = new JTextArea( 5 , 38 ) ;
 
     public Actions() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. Actions.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

@@ -13,7 +13,7 @@ public class Labels extends JFrame {
     JLabel lbl3 = new JLabel( "Дюк" , duke , JLabel.CENTER ) ;
 
     public Labels() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. Labels.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

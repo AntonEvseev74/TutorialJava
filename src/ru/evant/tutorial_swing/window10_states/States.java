@@ -17,7 +17,7 @@ public class States extends JFrame implements ItemListener {
     JTextArea txtArea = new JTextArea( 5 , 38 ) ;
 
     public States() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. States.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

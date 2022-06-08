@@ -1,7 +1,5 @@
 package ru.evant.tutorial_swing.window11_keystrokes;
 
-import ru.evant.tutorial_swing.window01_empty.Window;
-
 import javax.swing.*;
 import java.awt.event.* ;
 
@@ -13,7 +11,7 @@ public class KeyStrokes extends JFrame implements KeyListener {
     JTextArea txtArea = new JTextArea( 5 , 38 ) ;
 
     public KeyStrokes() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. KeyStrokes.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

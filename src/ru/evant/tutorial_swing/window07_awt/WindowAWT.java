@@ -15,7 +15,7 @@ public class WindowAWT extends JFrame {
     Font customFont = new Font( "Serif" , Font.PLAIN , 32 ) ;
 
     public WindowAWT() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. WindowAWT.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

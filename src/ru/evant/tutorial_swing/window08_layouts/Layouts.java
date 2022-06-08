@@ -11,7 +11,7 @@ public class Layouts extends JFrame {
     JPanel grid = new JPanel( new GridLayout( 2 , 2 ) ) ;
 
     public Layouts() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. Layouts.java" ) ;
         setSize( 500 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 

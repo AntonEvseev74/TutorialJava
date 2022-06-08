@@ -18,7 +18,7 @@ public class CheckBoxes extends JFrame {
     JCheckBox chk4 = new JCheckBox( langs[3] ) ;
 
     public CheckBoxes() {
-        super( "Окно Swing. Window.java" ) ;
+        super( "Окно Swing. CheckBoxes.java" ) ;
         setSize( 700 , 200 ) ;
         setDefaultCloseOperation( EXIT_ON_CLOSE ) ;
 
